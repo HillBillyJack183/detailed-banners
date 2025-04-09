@@ -1,0 +1,22 @@
+{
+	"values": [
+	"db:horizontal_large",
+	"db:horizontal_large_bottom",
+	"db:horizontal_medium",
+	"db:horizontal_medium_bottom",
+	"db:horizontal_small",
+	"db:horizontal_small_bottom",
+	"db:quarter_horizontal",
+	"db:quarter_horizontal_bottom",
+	"db:triangle_grand_bottom",
+	"db:triangle_grand_top",
+	"db:triangle_large_bottom",
+	"db:triangle_large_top",
+	"db:triangle_medium_bottom",
+	"db:triangle_medium_top",
+	"db:triangle_small_bottom",
+	"db:triangle_small_top",
+	"db:triangle_petite_bottom",
+	"db:triangle_petite_top"
+	]
+}	
